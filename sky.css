@@ -298,6 +298,189 @@ button{
     margin-top: -40px;
     
 }
- 
+.abnav{
+    background-color:lavender;
+    margin-top: 85px;
+    padding: 2px;
+    padding-left: 1300px;
+    padding-bottom: 13px;
+    
+}
+.abhead{
+    text-align: center;
+    margin-top: 10px;
+    padding: 200px;
+}
+.blahead{
+
+     text-align: center;
+     margin-top: 125px;
+     color: white;
+}
+     
+.nams1{
+    
+    margin: 220px;
+    margin-top: -220px;
+    padding: 25px;
+    background-color: black;
+    width: 1000px;
+}
+.about_more2{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    
+}
+.abryt_text{
+    padding: 150px;
+    margin-left: 600px;
+    margin-top: -230px;
+}
+.ableft_image1{
+    height: 700px;
+    width: -2px;
+    margin-right: 1170px;
+    margin-top: -245px;
+    position: absolute;
+
+    
+}
+.ableft_image{
+    width: 800px;
+    height: 800px;
+    margin-left: 500px;
+    padding: 120px;
+}
+.about_more{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.ableft_text{
+    padding: 20px;
+}
+.abryt_image{
+    height: 600px;
+    width: 600px;
+    margin-right: 170px;
+    margin-top: 100px;
+}
+.ableft_text{
+    margin-top: 150px;
+    margin-left: 180px;
+}
+.about_more3{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    
+}
+.abryt_text3{
+    padding: 120px;
+    margin-left: 620px;
+    margin-top: 60px;
+}
+.ableft_image3{
+    height: 350px;
+    width: -2px;
+    margin-right: 1170px;
+    position: absolute;
+    
+}
+.ableft_imagetre{
+    width: 800px;
+    height: 900px;
+    margin-left: 500px;
+    margin-top: -80px;
+    padding: 120px;
+
+}
+.abstory{
+    text-align: center;
+    margin-top: 60px;
+}
+.absub{
+    padding: 120px;
+    margin-top: -100px;
+}
+
+.shoppopular{
+    text-align: left;
+    padding: 25px;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    color: white;
+  }
+  
+  input[type=submit] {
+    background-color: black;
+    color: white;
+    padding: 12px 20px;
+    border: 2px solid white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color:white;
+    color: black;
+  }
+  
+  .container_cont {
+    border-radius: 5px;
+    background-color:black ;
+    color: white;
+    padding: 10px;
+    margin-top: -5px;
+    margin-left: 685px;
+    width: 650px;
+    height: 700px;
+  }
+  .contbro{
+      margin: 90px;
+      border: 2px solid black;
+  }
+  .conthead{
+      text-align: center;
+      color: white;
+  }
+  .cont5{
+      margin-top: -700px;
+      margin-left: 250px;
+  }
+  .blg__image{
+      width: 800px;
+      margin: 80px;
+  }
+  .blgtxt{
+      margin: 90px;
+      margin-top: -30px;
+  }
+  .one{
+      padding: 18px;
+      font-size: 30px;
+      border: 1px solid black;
+      color: black
+  }
+  .cart1{
+      margin: 70px;
+  }
+  .cart2{
+      margin: 65px;
+  }
+  .cb12{
+      margin: 90px;
+  }
 
 
